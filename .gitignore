@@ -1,0 +1,19 @@
+# 本地系统与编辑器文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+
+# 本地环境、凭据与缓存
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+
+# 不应直接进入指南仓库的本地资料
+_local/
