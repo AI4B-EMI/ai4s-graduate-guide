@@ -39,7 +39,7 @@
 
 ## 持续更新与参与贡献
 
-- 发现好资料、失效链接或内容问题，可通过 [Issue](https://github.com/zhangdft/ai4s-graduate-guide/issues/new/choose) 提出，无需先写成完整教程。
+- 发现好资料、失效链接或内容问题，可通过 [Issue](https://github.com/AI4B-EMI/ai4s-graduate-guide/issues/new/choose) 提出，无需先写成完整教程。
 - 愿意直接补充内容，可提交 Pull Request（PR），由维护者审阅后合并。欢迎短笔记和局部改进，不要求一次完成整章。
 - 新教程与笔记放入对应模块；在模块 README 中补充入口，注明适合对象、推荐范围与必要的前置知识。
 - 资源保留来源、作者、适用版本与核对日期；原创笔记区分个人理解、已核实内容和待验证问题。

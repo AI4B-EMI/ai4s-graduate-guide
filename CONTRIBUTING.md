@@ -19,7 +19,7 @@
 
 ### 只想推荐资料或指出问题
 
-打开仓库的 [Issue 入口](https://github.com/zhangdft/ai4s-graduate-guide/issues/new/choose)，选择“资料推荐与内容补充”或“内容纠错与链接更新”。给出相关模块、链接和简短说明即可。资料未看完时，请注明已阅读范围，不宣称全面核验。
+打开仓库的 [Issue 入口](https://github.com/AI4B-EMI/ai4s-graduate-guide/issues/new/choose)，选择“资料推荐与内容补充”或“内容纠错与链接更新”。给出相关模块、链接和简短说明即可。资料未看完时，请注明已阅读范围，不宣称全面核验。
 
 ### 直接补充教程或笔记
 
